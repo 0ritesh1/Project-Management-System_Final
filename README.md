@@ -1,17 +1,19 @@
-# UMS_Final
-New Project on Frontend (PHP) - User Management System
+# PMS_Final
+New Project on Frontend (PHP) - Project Management System
 
-# 👨‍💻 User Management System
+---
 
-User Management System is a simple **web-based User Management interface project** where users can explore different pages such as home, edit, delete, login, and register.
-The project is built using **basic web technologies like HTML and CSS** and demonstrates the structure of a User Management/browsing system.
+# 👨‍💻 Project Management System
+
+Project Management System is a simple **web-based Project Management interface project** where users can explore different pages such as home, edit, delete, login, and register.
+The project is built using **basic web technologies like HTML and CSS** and demonstrates the structure of a Project Management/browsing system.
 
 ---
 
 ## 📂 Project Structure
 
 ```
-User Management System
+Project Management System
 │
 ├── img/
 │   ├── before_delete.jpeg
@@ -97,8 +99,8 @@ Displays available deleted project.
 
 ## 🎯 Purpose of the Project
 
-This project demonstrates a **basic User Management System website interface** where users can explore CRUD Operation with different sections of the site.
+This project demonstrates a **basic Project Management System website interface** where users can explore CRUD Operation with different sections of the site.
 
-It can be extended into a **complete User Management system** in the future.
+It can be extended into a **complete Project Management system** in the future.
 
 ---
