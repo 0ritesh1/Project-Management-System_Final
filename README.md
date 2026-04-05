@@ -1,7 +1,7 @@
 # UMS_Final
 New Project on Frontend (PHP) - User Management System
 
-# 🍔 Foodcourt Connect
+# 👨‍💻 User Management System
 
 User Management System is a simple **web-based User Management interface project** where users can explore different pages such as home, edit, delete, login, and register.
 The project is built using **basic web technologies like HTML and CSS** and demonstrates the structure of a User Management/browsing system.
