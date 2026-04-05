@@ -64,15 +64,15 @@ Displays available deleted project.
 
 ### 📄 Update Page
 
-![Update Page](img/update.png)
+![Update Page](img/update.jpeg)
 
 ### 📄 Delete Details
 
-![Delete Details](img/delete.png)
+![Delete Details](img/delete.jpeg)
 
 ### 📞 Show Page
 
-![Show Page](img/before_delete.png)
+![Show Page](img/before_delete.jpeg)
 
 ---
 
